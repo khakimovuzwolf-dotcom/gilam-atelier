@@ -287,4 +287,4 @@ if __name__=='__main__':
   raise SystemExit('XATO: ADMIN_PASSWORD va SESSION_SECRET muhit o‘zgaruvchilarini belgilang. START-WINDOWS.cmd yo‘riqnomasi README da.')
  init();port=int(os.environ.get('PORT','8000'))
  print('GILAM ATELIER ishlayapti: http://127.0.0.1:'+str(port),flush=True)
- ThreadingHTTPServer(('127.0.0.1',port),Handler).serve_forever()
+ ThreadingHTTPServer((os.environ.get('HOST', '0.0.0.0'), port), Handler).serve_forever()
