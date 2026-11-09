@@ -1,0 +1,100 @@
+[
+  {
+    "id": 1,
+    "name": "Samarqand Nafosi",
+    "type": "national",
+    "size": "200 × 300 sm",
+    "price": 1890000,
+    "old": 2190000,
+    "bg": "#dfd5cb",
+    "base": "#ae574b",
+    "accent": "#f3d1a7",
+    "badge": "Chegirma",
+    "stock": 10
+  },
+  {
+    "id": 2,
+    "name": "Nordic Sand",
+    "type": "modern",
+    "size": "160 × 230 sm",
+    "price": 1250000,
+    "bg": "#e8e6dd",
+    "base": "#c8b99e",
+    "accent": "#f5eddd",
+    "badge": "Yangi",
+    "stock": 10
+  },
+  {
+    "id": 3,
+    "name": "Buxoro Merosi",
+    "type": "classic",
+    "size": "200 × 300 sm",
+    "price": 2390000,
+    "bg": "#e4dbcb",
+    "base": "#254e52",
+    "accent": "#e5c991",
+    "badge": "",
+    "stock": 10
+  },
+  {
+    "id": 4,
+    "name": "Soft Ivory",
+    "type": "modern",
+    "size": "160 × 230 sm",
+    "price": 990000,
+    "bg": "#eeeae3",
+    "base": "#ddd2bd",
+    "accent": "#f5f1e5",
+    "badge": "Mashhur",
+    "stock": 10
+  },
+  {
+    "id": 5,
+    "name": "Xiva Naqshi",
+    "type": "national",
+    "size": "250 × 350 sm",
+    "price": 2750000,
+    "bg": "#e6dfd5",
+    "base": "#a75f3e",
+    "accent": "#ead29b",
+    "badge": "",
+    "stock": 10
+  },
+  {
+    "id": 6,
+    "name": "Royal Emerald",
+    "type": "classic",
+    "size": "200 × 300 sm",
+    "price": 2150000,
+    "bg": "#e3e5dc",
+    "base": "#52685b",
+    "accent": "#d8c89a",
+    "badge": "Yangi",
+    "stock": 10
+  },
+  {
+    "id": 7,
+    "name": "Cloud Beige",
+    "type": "modern",
+    "size": "200 × 290 sm",
+    "price": 1490000,
+    "bg": "#e9e4dd",
+    "base": "#aaa18d",
+    "accent": "#ede4d5",
+    "badge": "",
+    "stock": 10
+  },
+  {
+    "id": 8,
+    "name": "Sharq Yulduzi",
+    "type": "national",
+    "size": "160 × 230 sm",
+    "price": 1690000,
+    "old": 1900000,
+    "bg": "#e8dfd8",
+    "base": "#7c4c5b",
+    "accent": "#efc89a",
+    "badge": "Chegirma",
+    "stock": 10
+  }
+]
